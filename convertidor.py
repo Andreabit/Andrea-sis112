@@ -12,7 +12,7 @@ def tiempofahrenheit(fahrenheit):
     return (fahrenheit -32)*5/9
     
     
-def mopcion(): #para escojer una opcion 
+def mostrar_menu(): #para escojer una opcion 
     print("Elija una opcion: ")
     print("1. longitud (metros <> kilometros )")
     print("2. masa (gramos <> kilogramos )")
